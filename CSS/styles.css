@@ -1,0 +1,39 @@
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    margin: 0;
+    
+}
+.texto{
+    text-align: center;
+    font-size: 25px;
+}
+.texto2{
+    color:hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    font-weight: 700;
+}
+p{
+    font-family: "Outfit";
+    font-weight: 400;
+}
+
+#qr-img{
+
+    border-radius: 5%;
+    height: 300px;
+    width: 300px;
+}
+    
+    #ppp{
+        margin-bottom: 15px;
+    }
+.square{
+    border-radius: 5%;
+padding: 15px;
+height: 500px;
+width: 300px;
+background-color: hsl(0, 0%, 100%);
+margin: 200px auto;
+}
